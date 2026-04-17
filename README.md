@@ -104,13 +104,7 @@ Atharva Gade
 🤖 AI/ML Enthusiast
 ⚙️ Interested in Backend Systems & Distributed Computing
 
-⭐ Support
 
-If you found this project useful:
-
-⭐ Star the repository
-🍴 Fork it
-📢 Share it
 🏆 Recruiter Note
 
 This project demonstrates:
