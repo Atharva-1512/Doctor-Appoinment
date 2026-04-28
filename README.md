@@ -1,5 +1,13 @@
 🏥 Doctor Appointment System
 Client-Server Based Healthcare Scheduling System
+
+
+
+
+
+
+
+
 📌 Overview
 
 The Doctor Appointment System is a client-server based healthcare scheduling application developed using Python socket programming.
